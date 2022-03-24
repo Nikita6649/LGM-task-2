@@ -1,0 +1,76 @@
+body{
+    display:block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url(https://images.search.yahoo.com/images/view;_ylt=Awr93m4TDTxiGwEgzkWJzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzE1NDg5NWQxODEwZDQ2MWU0Nzc2Y2E0OTJmZGIyZjlmBGdwb3MDMTcEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbackground%2Bimages%26type%3DE211US885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D17&w=1798&h=1200&imgurl=www.pcclean.io%2Fwp-content%2Fgallery%2Faurora-hd-wallpapers%2F735823.jpg&rurl=https%3A%2F%2Fwww.pcclean.io%2Faurora-hd-wallpapers-and-background-images%2F&size=1053.5KB&p=background+images&oid=154895d1810d461e4776ca492fdb2f9f&fr2=piv-web&fr=mcafee&tt=Aurora+HD+Wallpapers+and+Background+Images+%7C+YL+Computing&b=0&ni=21&no=17&ts=&tab=organic&sigr=Ge_pBi.d9l_X&sigb=KXh_4zJuM8lB&sigi=wtQCVDNNfLPV&sigt=z4Wksz9vP8R8&.crumb=Pb5q5G/AGUb&fr=mcafee&fr2=piv-web&type=E211US885G0);
+    background-repeat: no-repeat;
+    background-size:cover ;
+}
+.container
+{
+    position: relative;
+    height:600px;
+    left:0px;
+   
+}
+.heder
+ {
+    height:140px;
+    width:100%; 
+    background-image: url("https://images.search.yahoo.com/images/view;_ylt=Awr93m5ADjxijaEfrl6JzbkF;_ylu=c2VjA3NyBHNsawNpbWcEb2lkAzgzNjZjMzI4MmZmZDgzZWM3N2E4YmY0MGMwOTdlZDI3BGdwb3MDMTcEaXQDYmluZw--?back=https%3A%2F%2Fimages.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dbackground%2Bimages%2Bencrypted%26type%3DE211US885G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D17&w=1920&h=1080&imgurl=wallpaperaccess.com%2Ffull%2F2939786.jpg&rurl=https%3A%2F%2Fwallpaperaccess.com%2Fencryption&size=712.8KB&p=background+images+encrypted&oid=8366c3282ffd83ec77a8bf40c097ed27&fr2=piv-web&fr=mcafee&tt=Encryption+Wallpapers+-+Top+Free+Encryption+Backgrounds+-+WallpaperAccess&b=0&ni=21&no=17&ts=&tab=organic&sigr=0JCz8Vrl7nc1&sigb=on3FsRzNom4p&sigi=DG0u3J14aXPZ&sigt=0qSY6Yo8Mbio&.crumb=Pb5q5G/AGUb&fr=mcafee&fr2=piv-web&type=E211US885G0");
+    background-size: 300px;
+    background-repeat: no-repeat;
+    border-bottom:2px solid #fafdfc;
+    padding-top: 50px;
+    font-size: 100px;
+    color:rgb(95, 122, 108);
+    
+}
+.btn{
+    position:absolute;
+    top:45px;
+    right:20px;
+    
+}
+button{
+    color:black;
+    height:35px;
+    width:100px;
+
+    background-image: linear-gradient(black,white);
+    border-radius: 10px;
+
+    
+}
+#data
+{
+    width:99%;
+    height:450px;
+    text-align: right;
+    justify-content: center;
+    display: flex;   
+    
+}
+.table
+{
+    width:800px;
+
+}
+table{
+    color:rgb(16, 122, 243);
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font: 700;
+    
+}
+table tr :hover{
+    background-color:lightgray;
+
+}
+img{
+    clip-path: circle();
+}
+.welcome{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(87, 68, 76);
+    padding-top: 120px;
+}
